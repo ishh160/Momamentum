@@ -2,7 +2,7 @@
 
 ## 📞 Contacts
 **Name**: Isha Patel  
-**Email**: ishadp2016@gmail.com
+**Email**: ip02891n@pace.edu
 
 ## 📌 Status
 `In Progress`
