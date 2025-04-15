@@ -39,7 +39,5 @@ This project may later include:
 
 ---
 
-## 📎 Related Materials  
-> Add once available.  
-- Project pitch deck  
-- Presentation or publication links
+## 📎 Materials  
+- Dataset link- https://www.kaggle.com/datasets/momanyc/museum-collection?select=artworks.csv
