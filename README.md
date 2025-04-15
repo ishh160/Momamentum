@@ -14,7 +14,7 @@
 
 ## 📁 Contents of This Repository  
 
-- `momamentum_analysis.ipynb`:  
+- `momamentum.ipynb`:  
   The main Jupyter Notebook containing all data cleaning, EDA, and initial modeling steps.
 
 ---
